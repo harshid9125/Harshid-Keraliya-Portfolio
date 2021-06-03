@@ -1,0 +1,15 @@
+.form-group{
+    font-size: 20px;
+    margin-top: 13px;
+    padding-left: 2px;
+}
+
+.form-control{
+    margin-top: 5px;
+}
+
+.submit{
+    margin-top: 3px;
+    margin-left: 2px;
+    width: 100px;
+}

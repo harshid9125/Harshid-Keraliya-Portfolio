@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  .containerlogin {
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    max-width: 450px;
+    margin-left: 400px;
+    padding: 10px;
+    margin-top:25px;
+    -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+    text-align: center;
+  }
+  
+  .login{
+    text-align: left;
+    padding: 4%;
+  }
+  
+  .h2{
+    text-align: center;
+    margin: 0;
+    line-height: 1;
+    padding-bottom: 20px;
+    }
+  
+  .buttonOR{
+    background-color: #0c1310;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+  }
+  
+  .icons #twitter {
+    background-color: rgb(255, 255, 255);
+    color: rgb(27, 75, 179);
+  }
+  
+  .icons #facebook {
+    background-color: rgb(255, 255, 255);
+    color: rgb(27, 75, 179);
+  }
+  
+  .btnSignup{
+    padding-top: 2px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:100%;    
+  } 
+  
